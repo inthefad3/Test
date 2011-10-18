@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+        "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+
+<head>
+
+<title>Conforming HTML 4.01 Strict Template</title>
+<LINK rel="stylesheet" media="screen" href="css/style.css" type="text/css">
+</head>
+
+<div id="wrapper">
+	<div id="head1">
+	The Boy's Republic
+	</div>
+	<div id="head2">
+	A Deftones Fan Community
+	</div>
+	
+	<div id="mainb">
+		<ul>
+			<li>News</li>
+			<li>Media</li>
+			<li>Tour</li>
+			<li>About</li>
+		</ul>
+	
+	
+</div>
+
+<body>
+
+
+</body>
+</html>
